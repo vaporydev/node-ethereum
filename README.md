@@ -1,4 +1,4 @@
-node-ethereum [![Build Status](https://travis-ci.org/ethereum/node-ethereum.svg)](https://travis-ci.org/ethereum/node-ethereum)
+node-vapory [![Build Status](https://travis-ci.org/ethereum/node-ethereum.svg)](https://travis-ci.org/ethereum/node-ethereum)
 ===============
 [DEPRECATED]   
 this is being broken into micro-services, Like   
